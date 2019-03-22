@@ -1,0 +1,2 @@
+# ZPFatherAndSonRelationship
+此Demo主要介绍了子视图控制器中的"dismissViewControllerAnimated: completion: "方法是如何执行的，以及如何正确设置view的autoresizingMask属性从而避免出现bug。
